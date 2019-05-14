@@ -1,2 +1,2 @@
 # SimpL-Minesweeper
-Text-based minesweeper I made for programming class.
+Text-based Minesweeper I made for programming class.
